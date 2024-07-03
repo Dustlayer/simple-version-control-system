@@ -1,3 +1,7 @@
+# test files
+*.txt
+vcs
+
 # Compiled class file
 *.class
 
